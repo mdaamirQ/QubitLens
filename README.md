@@ -20,5 +20,5 @@ You can install the dependencies using `pip`:
 pip install -r requirements.txt
 ```
 
-Added gif
+## Tutorial for 2 qubits simulation
 ![multi qubit new](https://github.com/user-attachments/assets/ec9884c5-f0e7-47ad-8eab-b2bc7ece87f3)
