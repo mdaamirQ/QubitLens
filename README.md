@@ -21,4 +21,6 @@ pip install -r requirements.txt
 ```
 
 ## Tutorial for 2 qubits simulation
-![multi qubit new](https://github.com/user-attachments/assets/ec9884c5-f0e7-47ad-8eab-b2bc7ece87f3)
+
+
+![multi_qubit_gif](https://github.com/user-attachments/assets/376057b8-c6a8-4ba9-a720-d16c2dc59894)
