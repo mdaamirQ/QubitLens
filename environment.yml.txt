@@ -1,0 +1,12 @@
+name: quantum-tomography-mle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - qutip
+  - ipywidgets
+  - plotly
+  - jupyterlab
