@@ -18,4 +18,6 @@ You can install the dependencies using `pip`:
 
 ```bash
 pip install -r requirements.txt
-![multi qubit new](https://github.com/user-attachments/assets/c4ad0368-35ed-4491-8f1e-9a234a4f594c)
+```
+
+Added gif
