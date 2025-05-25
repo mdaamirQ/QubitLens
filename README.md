@@ -22,5 +22,16 @@ pip install -r requirements.txt
 
 ## Tutorial for 2 qubits simulation
 
-
 ![multi_qubit_gif](https://github.com/user-attachments/assets/376057b8-c6a8-4ba9-a720-d16c2dc59894)
+
+## Citation
+
+If you use or refer to this work in your research, please cite it as follows:
+
+```bibtex
+@article{sohail2025qubitlens,
+  title={QubitLens: An Interactive Learning Tool for Quantum State Tomography},
+  author={Sohail, Mohammad Aamir and Sudharshan, R Ranga and Pradhan, S Sandeep and Rao, Arvind},
+  journal={arXiv preprint arXiv:2505.08056},
+  year={2025}
+}
