@@ -1,5 +1,4 @@
-# ![QubitLens](QubitLens_logo.png) QubitLens
-
+# ![QubitLens](QubitLens_logo.png)
 
 This repository implements a quantum state tomography method using Maximum Likelihood Estimation (MLE) to reconstruct quantum states from measurement samples. It includes visualization tools for Bloch spheres and fidelity between true and reconstructed states.
 
@@ -20,7 +19,7 @@ You can install the dependencies using `pip`:
 pip install -r requirements.txt
 ```
 
-## Tutorial for 2 qubits simulation
+## Tutorial for 2-qubit simulation
 
 ![multi_qubit_gif](https://github.com/user-attachments/assets/376057b8-c6a8-4ba9-a720-d16c2dc59894)
 
