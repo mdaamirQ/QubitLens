@@ -1,4 +1,4 @@
-# QubitLens
+# ![QubitLens](QubitLens_logo.png) QubitLens
 
 
 This repository implements a quantum state tomography method using Maximum Likelihood Estimation (MLE) to reconstruct quantum states from measurement samples. It includes visualization tools for Bloch spheres and fidelity between true and reconstructed states.
